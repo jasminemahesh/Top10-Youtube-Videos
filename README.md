@@ -1,5 +1,5 @@
 # Top10-Youtube-Videos
-This Project is a small Web application to give you top 10 Youtube videos on any topic of your interest. The list of top 10 videos consists of Video Title, number of comments and Youtube links and the list is shown in descending order of comments. 
+This Project is a simple Web application to give you top 10 Youtube videos on any topic of your interest. The list of top 10 videos consists of Video Title, number of comments and Youtube links and the list is shown in descending order of comments. 
 
 # Prerequisites
 You need to create Youtube API key and use it in the variable - API_KEY. For creating Youtube API key, refer to - https://developers.google.com/youtube/v3/getting-started
