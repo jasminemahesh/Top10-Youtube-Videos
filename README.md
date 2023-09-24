@@ -3,16 +3,22 @@ This Project is a small Web application to give you top 10 Youtube videos on any
 
 # Installation steps
 sudo yum update <br>
-sudo yum install python3
-sudo yum install python3-pip
-python3 --version
-pip3 --version
-python3 -m venv venv
-cd ~/venv
-source bin/activate
+sudo yum install python3 <br>
+sudo yum install python3-pip <br>
+python3 --version <br>
+pip3 --version <br>
+python3 -m venv venv <br>
+cd ~/venv <br>
+source bin/activate <br>
 
-pip install flask
-flask run
+pip install flask <br>
+flask run <br>
 
-pip install gunicorn
-gunicorn -w 4 -b 0.0.0.0:5000 app:app --daemon
+pip install gunicorn <br>
+gunicorn -w 4 -b 0.0.0.0:5000 app:app --daemon <br>
+
+# author
+https://www.linkedin.com/in/jasmine-maheshwari-8812948 <br>
+
+# About Author
+I am a tech enthusiast , love to experiment on technology without boundaries. 
